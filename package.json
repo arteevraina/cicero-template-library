@@ -23,11 +23,11 @@
     "all": true
   },
   "dependencies": {
-    "@accordproject/cicero-core": "0.20.7",
-    "@accordproject/cicero-engine": "0.20.7",
-    "@accordproject/cicero-test": "0.20.7",
-    "@accordproject/concerto-core": "0.82.6",
-    "@accordproject/concerto-tools": "0.82.6",
+    "@accordproject/cicero-core": "0.20.7-20200125220055",
+    "@accordproject/cicero-engine": "0.20.7-20200125220055",
+    "@accordproject/cicero-test": "0.20.7-20200125220055",
+    "@accordproject/concerto-core": "0.82.7-20200125192939",
+    "@accordproject/concerto-tools": "0.82.7-20200125192939",
     "adm-zip": "^0.4.11",
     "bulma": "^0.7.1",
     "chai": "4.2.0",
